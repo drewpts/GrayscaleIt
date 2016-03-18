@@ -1,5 +1,5 @@
 # GrayscaleIt
-Extension for grayscaling UIView itself
+UIView extension for grayscaling UIViews and it derivatives
 
 Just put this file into your Xcode project and use like this:
 
@@ -8,6 +8,6 @@ Just put this file into your Xcode project and use like this:
        cell.vLikeControl.grayscaleIt()
        cell.vShare.grayscaleIt()
   }
-
+````
 
 Feel free to send any feedback.
